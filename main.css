@@ -121,3 +121,33 @@ svg {
 	width: 250px;
 	margin-bottom: 25px;
 }
+
+.my_h3 {
+	color: blue;
+	height: 40px;
+}
+	
+.text_p {
+	height: 20px;
+}
+
+.h_class {
+	margin-bottom: 0px;
+	height: 35px;
+}
+
+.li_class {
+	height: 35px;
+	padding-top: 0px;
+	text-indent: 35px;
+}
+
+.img_class {
+	height: 670px;
+	margin-left: 45px;
+}
+
+.img_class1 {
+	height: 670px;
+	margin-right: 45px;
+}
