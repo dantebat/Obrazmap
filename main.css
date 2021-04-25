@@ -151,3 +151,12 @@ svg {
 	height: 670px;
 	margin-right: 45px;
 }
+
+.dostoprim_text {
+	line-height: 25px;
+	text-indent: 20px;
+	font-size: 20px;
+	margin-top: 0px;
+    width: 380px;
+
+}
