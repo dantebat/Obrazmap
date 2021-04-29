@@ -158,7 +158,7 @@ svg {
 	font-size: 20px;
 	margin-top: 0px;
     width: 380px;
-
+	font-family: 'Pacifico', cursive;
 }
 
 .dostoprim_pic {
@@ -166,3 +166,43 @@ svg {
     height: 50%;
     margin-bottom: 0px;
 }
+#abs_left
+  {
+  position: absolute;
+  left: 1000px;
+  right: 100px;
+  top: 280px;
+  }
+  #abs_right
+  {
+  position: absolute;
+  left: 300px;
+  right: 100px;
+  top: 1150px;
+  }
+  #abs_right2
+  {
+	position: absolute;
+	left: 1000px;
+	right: 100px;
+	top: 1100px;
+	}
+	#abs_right3
+	{
+		position: absolute;
+		left: 1000px;
+		right: 100px;
+		top: 2020px;
+		}
+	.qwerty
+	{
+		font-family: 'Source Serif Pro', serif;
+		
+	}
+	.qwerty2
+	{
+		position: absolute;
+		left: 310px;
+		
+	}
+	
