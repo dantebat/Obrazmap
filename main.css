@@ -155,10 +155,12 @@ svg {
 .dostoprim_text {
 	line-height: 25px;
 	text-indent: 20px;
-	font-size: 20px;
 	margin-top: 0px;
-    width: 380px;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Caveat', cursive;
+	float: left;
+    font-size: 30px;
+    width: 445px;
+	margin-left: 100px; 
 }
 
 .dostoprim_pic {
@@ -166,43 +168,152 @@ svg {
     height: 50%;
     margin-bottom: 0px;
 }
-#abs_left
-  {
-  position: absolute;
-  left: 1000px;
-  right: 100px;
-  top: 280px;
-  }
-  #abs_right
-  {
-  position: absolute;
-  left: 300px;
-  right: 100px;
-  top: 1150px;
-  }
-  #abs_right2
-  {
+.dostoprim_railroad {
+	justify-content: right;
+
+}
+
+.salo {
+	width: 1100px;
+	text-align: center;
+}
+
+.salo1 {
+	width: 1300;
+	text-align: center;
+	height: 1515px;
+}
+
+.salo10 {
+	width: 1300;
+	text-align: center;
+}
+
+.salo2 {
+	width: 1100px;
+	text-align: center;
+	margin-top: 60px;
+}
+
+.base_text1 {
+	margin-top: 100px;
+	line-height: 25px;
+	text-indent: 20px;
+	font-size: 20px;
+}
+
+.base_text3 {
+	line-height: 25px;
+	font-size: 20px;
+	margin-top: 5px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.my_h3-2 {
+	color: blue;
+	height: 40px;
+	margin-bottom: 40px;
+	margin-left: 100px;
+}
+
+.salo3 {
+	width: 300px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.portB {
+	margin-left: 100px;
+	float: left;
+	width: 300px;
+	height: 550px;
+}
+
+.portBT {
+	margin-top: 100px;
+	line-height: 25px;
+	text-indent: 20px;
+	font-size: 20px;
+	float: right;
+	margin-right: 150px;
+	width: 700px;
+}
+
+.my_h3-3 {
+	color: blue;
+	height: 40px;
+	width: 1000px;
+}
+
+.hramART {
+	margin-top: 600px;
+	margin-bottom: 0px;
+}
+
+.saloBM {
+	width: 400px;
+	float: right;
+	margin-top: 80px;
+}
+
+.my_h3-3 {
+	color: blue;
+	height: 20px;
+	float: left;
+	width: 700px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
+
+.base_text4 {
+	line-height: 25px;
+	text-indent: 20px;
+	font-size: 20px;
+	float: left;
+	width: 770px;
+}
+
+.divtext4 {
+	margin-left: 120px;
+}
+
+.abs_left
+{
+position: absolute;
+left: 1000px;
+right: 100px;
+top: 280px;
+}
+.abs_right
+{
+position: absolute;
+left: 300px;
+right: 100px;
+top: 1150px;
+}
+.abs_right2
+{
+position: absolute;
+left: 1000px;
+right: 100px;
+top: 1100px;
+}
+.abs_right3
+{
 	position: absolute;
 	left: 1000px;
 	right: 100px;
-	top: 1100px;
+	top: 2020px;
 	}
-	#abs_right3
-	{
-		position: absolute;
-		left: 1000px;
-		right: 100px;
-		top: 2020px;
-		}
-	.qwerty
-	{
-		font-family: 'Source Serif Pro', serif;
-		
-	}
-	.qwerty2
-	{
-		position: absolute;
-		left: 310px;
-		
-	}
+.qwerty
+{
+	font-family: 'Source Serif Pro', serif;
 	
+}
+.qwerty2
+{
+	position: absolute;
+	left: 310px;
+	
+}
