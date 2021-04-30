@@ -118,9 +118,10 @@ svg {
 }
 
 .description img {
-	width: 250px;
+	width: 100%;
 	margin-bottom: 25px;
 }
+
 
 .my_h3 {
 	color: blue;
@@ -153,24 +154,34 @@ svg {
 }
 
 .dostoprim_text {
+	text-align: center;
+	margin:auto;
 	line-height: 25px;
 	text-indent: 20px;
-	margin-top: 0px;
 	font-family: 'Caveat', cursive;
-	float: left;
-    font-size: 30px;
+	font-size: 30px;
     width: 445px;
-	margin-left: 100px; 
 }
 
 .dostoprim_pic {
+	margin-top: 100px;
 	width: 50%;
     height: 50%;
-    margin-bottom: 0px;
 }
-.dostoprim_railroad {
-	justify-content: right;
 
+.dostoprim_railroad {
+	display: flex;
+
+}
+
+.dostoprim_div {
+	display: flex;
+	width: 100%;
+}
+
+.dostoprim_div2 {
+	display: flex;
+	width: 30%;
 }
 
 .salo {
