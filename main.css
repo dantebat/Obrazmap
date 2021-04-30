@@ -161,12 +161,12 @@ svg {
 	font-family: 'Caveat', cursive;
 	font-size: 30px;
     width: 445px;
+	margin-top: 20px;
 }
 
 .dostoprim_pic {
-	margin-top: 100px;
-	width: 50%;
-    height: 50%;
+	width: 100%;
+   
 }
 
 .dostoprim_railroad {
@@ -176,12 +176,102 @@ svg {
 
 .dostoprim_div {
 	display: flex;
-	width: 100%;
+	width: 50%;
 }
 
-.dostoprim_div2 {
-	display: flex;
-	width: 30%;
+.abs_left
+{
+position: absolute;
+left: 1000px;
+right: 290px;
+top: 300px;
+}
+.abs_right
+{
+position: absolute;
+left: 300px;
+right: 100px;
+top: 1150px;
+}
+.abs_right2
+{
+position: absolute;
+left: 1000px;
+right: 290px;
+top: 1100px;
+}
+.abs_right3
+{
+	position: absolute;
+	left: 1000px;
+	right: 100px;
+	top: 2020px;
+	}
+.qwerty
+{
+	font-family: 'Source Serif Pro', serif;
+	
+}
+.qwerty2
+{
+	position: absolute;
+	left: 310px;
+	
+}
+.qwerty3
+{
+	position: absolute;
+	top: 1100px;
+}
+.qwerty4
+{
+    position: absolute;
+	top: 2000px;
+}
+.qwerty5
+{
+	position: absolute;
+	top: 1700px;
+}
+.qwerty6
+{
+	position: absolute;
+	top: 1750px;
+	right: 290px;
+	left: 1000px;
+}
+.qwerty7
+{
+	position: absolute;
+	right: 290px;
+	left: 290px;
+	top: 2300px;
+}
+.qwerty8
+{
+    position: absolute;
+	top: 0px;	
+}
+.qwerty9
+{
+	position: absolute;
+	top: 850px;
+	right: 290px;
+	left: 290px;
+}
+.qwerty10
+{
+	position: absolute;
+	right: 500px;
+	left: 300px;
+	top: 325px;
+}
+.qwerty11
+{
+	position: absolute;
+	right: 500px;
+	left: 850px;
+	top: 230px;
 }
 
 .salo {
@@ -211,6 +301,8 @@ svg {
 	line-height: 25px;
 	text-indent: 20px;
 	font-size: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 .base_text3 {
@@ -225,7 +317,8 @@ svg {
 	color: blue;
 	height: 40px;
 	margin-bottom: 40px;
-	margin-left: 100px;
+	margin-left: 40%;
+	width: 350px;
 }
 
 .salo3 {
@@ -251,12 +344,6 @@ svg {
 	width: 700px;
 }
 
-.my_h3-3 {
-	color: blue;
-	height: 40px;
-	width: 1000px;
-}
-
 .hramART {
 	margin-top: 600px;
 	margin-bottom: 0px;
@@ -265,16 +352,16 @@ svg {
 .saloBM {
 	width: 400px;
 	float: right;
-	margin-top: 80px;
+	margin-top: 0px;
+	margin-right: 100px;
 }
 
 .my_h3-3 {
 	color: blue;
 	height: 20px;
-	float: left;
 	width: 700px;
 	margin-top: 0px;
-	margin-left: 70px;
+	margin-left: 210px;
 }
 
 .base_text4 {
@@ -282,49 +369,99 @@ svg {
 	text-indent: 20px;
 	font-size: 20px;
 	float: left;
-	width: 770px;
+	width: 600px;
 }
 
 .divtext4 {
 	margin-left: 120px;
 }
 
-.abs_left
-{
-position: absolute;
-left: 1000px;
-right: 100px;
-top: 280px;
+.my_h3-4 {
+	color: blue;
+	height: 20px;
+	float: left;
+	width: 600px;
+	margin-top: 0px;
+	margin-left: 70px
 }
-.abs_right
-{
-position: absolute;
-left: 300px;
-right: 100px;
-top: 1150px;
+
+.my_h3-5 {
+	color: blue;
+	width: 600px;
+	margin-top: 1150px;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
 }
-.abs_right2
-{
-position: absolute;
-left: 1000px;
-right: 100px;
-top: 1100px;
+
+.sanatB {
+	text-align: center;
+	width: 1100px;
 }
-.abs_right3
-{
-	position: absolute;
-	left: 1000px;
-	right: 100px;
-	top: 2020px;
-	}
-.qwerty
-{
-	font-family: 'Source Serif Pro', serif;
+
+.my_h3-6 {
+	color: blue;
+	width: 600px;
+	margin-left: 35%;
+	margin-right: 35%;
+	width: 350px;
+	height: 0px;
+	margin-top: 0px;
+	margin-bottom: 80px;
+}
+
+.base_text5 {
+	line-height: 25px;
+	text-indent: 20px;
+	font-size: 20px;
+	width: 1100px;
+	margin-left: 100px;
+}
+
+.my_h3-7 {
+	color: blue;
+	width: 800px;
+	margin-left: 20%;
+	margin-right: 20%;
+	width: 800px;
+	height: 0px;
+	margin-top: 0px;
+	margin-bottom: 80px;
+}
+
+.base_text1-1 {
+	line-height: 25px;
+	text-indent: 20px;
+	font-size: 20px;
 	
 }
-.qwerty2
-{
-	position: absolute;
-	left: 310px;
-	
+
+.TeleSis {
+	float: right;
+	margin-right: 35%;
+	width: 200px;
+	height: 450px;
+	margin-top: 25px;
+}
+
+.TeleShow {
+	width: 600px;
+}
+
+.my_h3-tele {
+	color: blue;
+	height: 20px;
+	width: 250px;
+	margin-top: 0px;
+	margin-left: 40%;
+	margin-bottom: 50px;
+}
+
+.UsadbA {
+	margin-left: 230px;
+	width: 800px;
+}
+.UsadbA {
+	margin-left: 230px;
+	width: 800px;
 }
