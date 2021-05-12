@@ -465,3 +465,48 @@ top: 1100px;
 	margin-left: 230px;
 	width: 800px;
 }
+
+.about_vitya {
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+
+.about_dima {
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+
+.about_serei {
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 1px;
+
+}
+
+.text_about {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+.text_about_1 {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+.text_about_2 {
+    font-family: 'Orelega One', cursive;
+    font-size: 25px;
+}
+
+.about_vk {
+    font-family: 'Oswald', sans-serif;
+    font-size: 5000px;
+}
+
+.email {
+    color: blue;
+}
+
