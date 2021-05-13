@@ -467,25 +467,15 @@ top: 1100px;
 }
 
 .about_vitya {
-    margin-bottom: 1px;
-    margin-left: 1px;
-    margin-top: 1px;
-    margin-right: 1px;
+	height: 500px;
 }
 
 .about_dima {
-    margin-bottom: 1px;
-    margin-left: 1px;
-    margin-top: 1px;
-    margin-right: 1px;
+	height: 500px;
 }
 
 .about_serei {
-    margin-bottom: 1px;
-    margin-left: 1px;
-    margin-top: 1px;
-    margin-right: 1px;
-
+	height: 500px;
 }
 
 .text_about {
@@ -510,3 +500,7 @@ top: 1100px;
     color: blue;
 }
 
+.qwerty228
+{
+	margin-top: 15px;
+}
