@@ -504,3 +504,22 @@ top: 1100px;
 {
 	margin-top: 15px;
 }
+
+.logo_1  {
+	height: 50px;
+    margin: 0 50px 0 0;
+	padding-top: 5px;
+  }
+.logo_1 img{
+	height: 70px;
+}
+.logo_2 {
+	height: 50px;
+    margin: 0 0 0 50px;
+    padding-top: 5px;
+
+}
+
+.logo_2 img {
+	height: 65px;
+}
