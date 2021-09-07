@@ -523,3 +523,18 @@ top: 1100px;
 .logo_2 img {
 	height: 65px;
 }
+.navbar2 {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 1300px;
+	min-width: 350px;
+	line-height: 0px;
+	background-color: #e4e4e4
+	
+}
+.qwerty123 {
+	width: 100%;
+	margin-left: 400px;
+	
+}
