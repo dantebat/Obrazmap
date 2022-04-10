@@ -538,3 +538,8 @@ top: 1100px;
 	margin-left: 400px;
 	
 }
+
+.text_about_15 {
+    font-family: 'Yanone Kaffeesatz', sans-serif, bold;
+	font-size: 50px;
+}
